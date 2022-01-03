@@ -3,8 +3,6 @@ My name is Marco <br>
 I'm a Software Developer Student <br>
 Besides that I'm also an Astrophysics student
 
-- 🔭 I’m currently working on my personal development
-- 🌱 I’m currently learning React
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
 - ⚡ What I don't know Give me a couple days 😊
 
@@ -28,7 +26,6 @@ Besides that I'm also an Astrophysics student
  	<a href="https://www.twitch.tv/marcoutinho_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:marquinco@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/coutinhomarco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/coutinhomarco/coutinhomarco/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
