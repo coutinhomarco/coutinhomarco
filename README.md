@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Marco <br>
 I'm a Software Developer Student @ Trybe <br>
-Besides that I'm also an Astrophysics student @ UFMG
+Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
 - ⚡ What I don't know Give me a couple days 😊
