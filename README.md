@@ -4,6 +4,7 @@ I'm a Software Developer Student @ Trybe <br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
+- Currently I'm learning backend
 - ⚡ What I don't know Give me a couple days 😊
 
 <div align="center">
