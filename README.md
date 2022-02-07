@@ -7,6 +7,16 @@ Besides that I'm also an Physics student @ UFMG
 - Currently I'm learning Node.js
 - ⚡ What I don't know Give me a couple days 😊
 
+
+<h3>Some technologies that I know:</h3>
+<li>React with Redux or Context API</li>
+<li>Jest and Cypress</li>
+<li>Bootstrap</li>
+<li>Docker</li>
+<li>MySQL</li>
+<li>MatplotLib</li>
+
+<hr>
 <div align="center">
   <a href="https://github.com/coutinhomarco">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coutinhomarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
