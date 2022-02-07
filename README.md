@@ -4,7 +4,7 @@ I'm a Software Developer Student @ Trybe <br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
-- Currently I'm learning backend
+- Currently I'm learning Node.js
 - ⚡ What I don't know Give me a couple days 😊
 
 <div align="center">
@@ -27,6 +27,4 @@ Besides that I'm also an Physics student @ UFMG
  	<a href="https://www.twitch.tv/marcoutinho_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:marquinco@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/coutinhomarco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
 </div>
