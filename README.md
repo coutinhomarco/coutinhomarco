@@ -5,7 +5,7 @@ Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
 - Currently I'm learning Node.js
-- ⚡ What I don't know Give me a couple days 😊
+- ⚡ What I don't know give me a couple days 😊
 
 
 <h3>Some technologies that I know:</h3>
