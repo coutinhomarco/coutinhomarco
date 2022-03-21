@@ -1,3 +1,5 @@
+<img  src="https://physicstoday.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.1955479&id=images/medium/1.1955479.figures.f3.gif" />
+
 ### Hi there 👋 
 My name is Marco <br>
 I'm a Software Developer Student @ Trybe <br>
