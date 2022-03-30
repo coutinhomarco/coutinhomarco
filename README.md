@@ -6,7 +6,7 @@ I'm a FullStack Software Developer<br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
-- Currently I'm learning Node.js
+- Currently I'm learning Node.js and C#
 - ⚡ What I don't know give me a couple days 😊
 
 
