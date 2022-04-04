@@ -6,12 +6,15 @@ I'm a FullStack Software Developer<br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
-- Currently I'm learning Node.js and C#
+- Currently I'm learning C#
 - ⚡ What I don't know give me a couple days 😊
 
 
-<h3>Some technologies that I know:</h3>
+<h3>Some technologies that I know of:</h3>
 <li>React with Redux or Context API</li>
+<li>Node</li>
+<li>Sequelize</li>
+<li>JWT</li>
 <li>Express</li>
 <li>Jest and Cypress</li>
 <li>Bootstrap</li>
