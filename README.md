@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 My name is Marco <br>
-I'm a FullStack Software Developer<br>
+I'm a Full Stack Software Developer @ Growth2data<br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
