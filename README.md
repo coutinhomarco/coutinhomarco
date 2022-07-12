@@ -1,4 +1,4 @@
-<img  src="https://physicstoday.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.1955479&id=images/medium/1.1955479.figures.f3.gif" />
+<img align="center" height="600em"  src="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb.jpg" />
 
 ### Hi there 👋 
 My name is Marco <br>
