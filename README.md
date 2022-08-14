@@ -6,7 +6,7 @@ I'm a Full Stack Software Developer @ Growth2data<br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
-- Currently I'm learning C#
+- Currently I'm learning Azure
 - ⚡ What I don't know give me a couple days 😊
 
 
