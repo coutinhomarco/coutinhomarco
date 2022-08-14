@@ -1,4 +1,4 @@
-<img align="center" height="600em"  src="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb.jpg" />
+<img align="center" height="600em" width="100%" src="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb.jpg" />
 
 ### Hi there 👋 
 My name is Marco <br>
