@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 My name is Marco <br>
-I'm a Full Stack Software Developer @ Growth2data<br>
+I currently work as a full stack web developer<br>
 Besides that I'm also an Physics student @ UFMG
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/coutinhomarco/">Linkedin</a>
@@ -11,11 +11,12 @@ Besides that I'm also an Physics student @ UFMG
 
 
 <h3>Some technologies that I know of:</h3>
-<li>React with Redux or Context API</li>
+<li>JavaScript</li>
 <li>Node</li>
+<li>Express</li>
+<li>React</li>
 <li>Sequelize</li>
 <li>JWT</li>
-<li>Express</li>
 <li>Jest and Cypress</li>
 <li>Bootstrap</li>
 <li>Docker</li>
