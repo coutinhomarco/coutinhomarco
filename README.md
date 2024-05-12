@@ -2,7 +2,7 @@
 
 Hi! I'm a developer and enthusiast of cloud technologies. You can reach me at:
 
-    Email: marcosoares.coutinho@gmail.com
+    Email: contato@coutinhomar.co
 
 ## Notes
 
