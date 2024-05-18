@@ -14,7 +14,7 @@ Here are some of the resources I've created:
 - **Adding a Second API to Same EC2**  
   [View Gist](https://gist.github.com/coutinhomarco/97d3518c98869c4dfc96384ee296faac)
 
-- **Understanding CQRS and Using express-typescript-bullmq CLI Tool**
+- **Understanding CQRS and Using express-typescript-bullmq CLI Tool**<br/>
   [View Gist](https://gist.github.com/coutinhomarco/5af53431c142eba58e4fa989d174fff8)
 
 
