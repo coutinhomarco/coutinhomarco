@@ -1,6 +1,5 @@
-# Marco Coutinho
-
-Hi! I'm a developer and enthusiast of cloud technologies. You can reach me at:
+# coutinhomarco
+Hi! I'm a developer and enthusiast of cloud technologies, currently learning about Rust. You can reach me at:
 
     Email: contato@coutinhomar.co
 
@@ -19,3 +18,8 @@ Here are some of the resources I've created:
 
 
 Feel free to reach out if you have any questions or need further details!
+<br>
+[Linkedin](https://www.linkedin.com/in/coutinhomarco/)
+<br>
+[Email](mailto:contato@coutinhomar.co)
+
