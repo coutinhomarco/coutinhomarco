@@ -7,6 +7,10 @@ Hi! I'm a developer and enthusiast of cloud technologies, currently learning Oca
 
 Here are some of the resources I've created:
 
+
+- **Exploring Adaptive Network Security: Building an Intelligent Firewall with Rust**  
+  [View Gist](https://gist.github.com/coutinhomarco/7014081193c22bc02836095c99812081)
+
 - **Step-by-Step Guide to Setting Up an EC2 Instance with Nginx and SSL**  
   [View Gist](https://gist.github.com/coutinhomarco/77336a4cac563ea7fa670e10d09222ec)
 
