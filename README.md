@@ -1,5 +1,5 @@
 # coutinhomarco
-Hi! I'm a developer and enthusiast of cloud technologies, currently learning Ocaml. You can reach me at:
+Hi! I'm a developer and enthusiast of cloud technologies. You can reach me at:
 
     Email: contato@coutinhomar.co
 
